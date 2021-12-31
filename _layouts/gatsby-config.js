@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/matcha-foam`,
   siteMetadata: {
-    title: `Matcha Foam`,
+    title: `Foam`,
   },
   plugins: [
     {
