@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/foam-gatsby-template`,
+  pathPrefix: `/matcha-foam`,
   siteMetadata: {
     title: `Foam`,
   },
