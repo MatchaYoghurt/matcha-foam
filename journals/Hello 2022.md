@@ -7,6 +7,6 @@
 
 ![](paste_images/2022-01-01-13-00-51.jpg)
 
-[[foam-tips]]
+[[foam-tips|小撇步]]
 
 ![](paste_images/2022-01-01-13-24-06.png)
