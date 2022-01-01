@@ -8,3 +8,5 @@ Home of Miss Elegance
 [[end-of-2021]]
 
 [[Hello 2022]]
+
+[[Hello 2022|wowo]]
