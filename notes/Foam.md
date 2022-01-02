@@ -9,8 +9,7 @@ preview: false
 
 # Foam
 
-- Create Date: 2022-01-01
-- latest editing: 
+- Date: 2022-01-01
 
 Welcome to Foam templates.
 

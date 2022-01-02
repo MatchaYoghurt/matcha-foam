@@ -10,3 +10,6 @@
 [[foam-tips]]
 
 ![](paste_images/2022-01-01-13-24-06.png)
+
+## 今天
+[[daily-note-2022-01-01]]
