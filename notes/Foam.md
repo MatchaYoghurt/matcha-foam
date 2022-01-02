@@ -4,7 +4,7 @@ title : # 'Title of the note. If not provided, uses the file name of the note'
 date : # 'Date the note was published.'
 aliases : # 'List of aliases of this note'
 tags : # 'List of tags that this note is tagged with.'
-preview: false
+preview: true
 ---
 
 # Foam
