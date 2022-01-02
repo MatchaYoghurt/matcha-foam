@@ -11,7 +11,7 @@ preview: false
 
 繞了一大圈，希望有把這麼複雜的東西設定好。
 
-[[notes/Foam]] 是一個開放
+[[notes/Foam]] 是一個開放原始碼的roam筆記框架。
 
 Welcome to Foam templates.
 
