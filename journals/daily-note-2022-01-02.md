@@ -1,10 +1,10 @@
 ---
 slug : # 'This will show up in the URL of the note'
 title : # 'Title of the note. If not provided, uses the file name of the note'
-date : # 'Date the note was published.'
+date : 2022-01-02
 aliases : # 'List of aliases of this note'
 tags : # 'List of tags that this note is tagged with.'
-preview: true
+preview: false
 ---
 
 # daily-note-2022-01-02
