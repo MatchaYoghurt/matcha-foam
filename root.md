@@ -5,6 +5,4 @@ Home of Miss Elegance
 
 [[readme]]
 
-[[end-of-2021]]
-
-[[Hello 2022]]
+[[daily-note-index]]
