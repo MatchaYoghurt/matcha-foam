@@ -13,6 +13,8 @@ preview: false
 
 ### Janurary
 
+[[daily-note-2022-01-05]]
+
 [[daily-note-2022-01-02]]
 
 [[daily-note-2022-01-01]]
