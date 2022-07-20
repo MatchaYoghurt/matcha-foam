@@ -11,6 +11,9 @@ preview: false
 
 ## 2022
 
+### July
+
+[[daily-note-2022-07-20]]
 ### Janurary
 
 [[daily-note-2022-01-05]]
